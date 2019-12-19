@@ -736,14 +736,14 @@ WR,Chester Rogers,24,2016,74,77,91,84,89,77,0.5,3
 WR,James Wright,27,2014,70,70,70,70,70,70,0.7,2
 END_PLAYERS
 Kansas City Chiefs, KAN
-OL,Tejan Koroma,22,2018,59,51,82,86,72,70,0.6,3
-OL,Mitch Morse,26,2015,73,85,82,92,72,73,1.2,4
-OL,Austin Reiter,27,2015,62,56,84,77,77,72,0.6,1
+OL,Tejan Koroma,22,2018,79,61,82,86,82,80,0.6,6
+OL,Mitch Morse,26,2015,79,85,82,92,79,77,1.2,8
+OL,Austin Reiter,27,2015,72,76,84,79,87,82,0.6,1
 CB,Kendall Fuller,23,2016,82,78,88,88,90,67,0.8,4
 CB,Eric Murray,24,2016,68,70,90,60,89,70,0.7,4
 CB,Steven Nelson,25,2015,77,74,90,77,90,66,0.7,4
 CB,Charvarius Ward,22,2018,64,53,91,85,78,68,0.6,3
-S,Eric Berry,30,2010,96,93,85,68,90,93,13.0,6
+S,Eric Berry,30,2010,96,93,88,78,90,93,13.0,6
 CB,Step Durham,23,2018,65,65,65,65,65,65,0.4,3
 CB,Jordan Lucas,25,2016,68,50,87,69,91,50,0.6,1
 S,Ron Parker,31,2011,82,80,87,67,90,80,0.9,1
@@ -758,19 +758,19 @@ DL,Chris Jones,24,2016,87,90,81,89,83,90,2.2,4
 DL,Derrick Nnadi,22,2018,72,65,87,87,82,65,0.9,4
 DL,Xavier Williams,26,2015,74,76,81,84,82,76,2.5,2
 RB,J.D. Moore,23,2018,65,65,65,65,65,65,0.4,3
-K,Harrison Butker,23,2017,80,68,82,92,90,57,0.5,2
-LB,Anthony Hitchens,26,2014,82,86,88,86,84,72,9.0,5
-LB,Justin Houston,29,2011,90,92,91,88,86,72,16.8,6
+K,Harrison Butker,23,2017,84,78,82,92,90,67,0.5,2
+LB,Anthony Hitchens,26,2014,89,89,89,96,94,82,9.0,5
+LB,Justin Houston,29,2011,98,96,91,89,89,92,16.8,6
 LB,Tanoh Kpassagnon,24,2017,68,63,82,77,67,56,1.1,4
 LB,Ben Niemann,23,2018,58,48,84,79,70,58,0.6,3
-LB,Dorian O'Daniel,24,2018,67,55,86,82,69,70,0.8,4
-LB,Reggie Ragland,25,2016,79,81,88,83,85,62,1.5,4
-LB,Terrance Smith,25,2016,67,58,87,78,68,74,0.6,1
-LB,Breeland Speaks,23,2018,73,62,81,79,80,58,1.5,4
+LB,Dorian O'Daniel,24,2018,69,55,86,82,69,70,0.8,4
+LB,Reggie Ragland,25,2016,89,81,88,83,85,62,1.5,4
+LB,Terrance Smith,25,2016,77,58,87,78,68,74,0.6,1
+LB,Breeland Speaks,23,2018,73,72,81,79,80,78,1.5,4
 OL,James Winchester,29,2015,43,50,74,67,47,50,0.9,5
 OL,Kahlil McKenzie,21,2018,59,47,73,83,69,68,0.7,4
 OL,Jordan Devey,30,2014,65,67,85,82,73,72,0.9,1
-OL,Laurent Duvernay-Tardif,27,2014,81,83,85,92,79,82,8.5,5
+OL,Laurent Duvernay-Tardif,27,2014,91,93,95,92,89,82,8.5,5
 OL,Cameron Erving,26,2015,66,70,85,84,72,70,7.9,2
 OL,Eric Fisher,27,2013,76,84,94,88,73,77,12.0,4
 OL,Dillon Gordon,25,2016,65,50,80,82,75,71,0.6,2
@@ -778,7 +778,7 @@ OL,Mitchell Schwartz,29,2012,80,88,88,86,79,84,6.6,5
 OL,Andrew Wylie,24,2018,67,60,68,82,69,82,0.5,2
 K,Dustin Colquitt,36,2005,83,73,90,89,93,55,2.5,3
 QB,Chad Henne,33,2008,67,76,92,87,75,20,3.4,2
-QB,Patrick Mahomes,23,2017,97,95,95,95,90,80,8.1,10
+QB,Patrick Mahomes,23,2017,97,95,95,95,90,90,8.1,10
 RB,LeSean McCoy,30,2009,90,88,92,79,90,87,8.0,5
 RB,Anthony Sherman,30,2011,78,83,87,68,78,52,2.0,1
 RB,Spencer Ware,27,2013,79,86,89,88,87,77,1.8,2
